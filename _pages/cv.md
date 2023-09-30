@@ -11,32 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, Hainan University, Haikou, China, 2017-2021
+* M.S. in Applied Mathematics, Sun Yat-sen University, Zhuhai, China, 2021-present
 
-Work experience
+Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul, 2023 - present:  Barcoverse Technoloy Limited Company  EEG algrothm intern
+  * Assist in collecting EEG data for SSVEP and Motor Imagery paradigms
+  * Design EEG Emotional Evoked Paradigm using Psychopy
+  * Collect EEG data for Emotion paradigms using Emotive Epoc+
+  * Construct a decoding model for Emotion Recognition using TensorFlow and Keras
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Numpy, Pandas, MNE, PsychoPy(coder), Matplotlib, TensorFlow, Keras
+* Matlab
+  * EEGLAB
 
-Publications
+EXTRACURRICULAR ACTIVITIES
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
