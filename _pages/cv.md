@@ -14,7 +14,7 @@ Education
 * B.S. in Mathematics and Applied Mathematics, Hainan University, Haikou, China, 2017-2021
 * M.S. in Applied Mathematics, Sun Yat-sen University, Zhuhai, China, 2021-present
 
-Internship experience
+Internship Experience
 ======
 * Jul, 2023 - present:  Barcoverse Technoloy Limited Company  EEG algrothm intern
   * Assist in collecting EEG data for SSVEP and Motor Imagery paradigms
@@ -29,7 +29,7 @@ Skills
 * Matlab
   * EEGLAB
 
-EXTRACURRICULAR ACTIVITIES
+Extracurricular Activities
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
