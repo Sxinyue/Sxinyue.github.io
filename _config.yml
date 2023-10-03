@@ -230,15 +230,15 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # # _talks
   # - scope:
   #     path: ""
@@ -258,6 +258,18 @@ defaults:
       comments: true
       share: true
       related: true
+  # # _projects
+  # - scope:
+  #     path: ""
+  #     type: projects
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+
 
 # Sass/SCSS
 sass:
