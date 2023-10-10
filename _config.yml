@@ -248,7 +248,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: false
   # _portfolio
   - scope:
@@ -257,7 +257,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # # _projects
   # - scope:
